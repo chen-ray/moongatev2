@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
   "label": "code quality",
-  "message": "22 warnings",
-  "color": "red"
+  "message": "20 warnings",
+  "color": "yellow"
 }
